@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\BeamLargeFiles\Application\src\main\assets"><file name="stargazer_droid.jpg" path="D:\BeamLargeFiles\Application\src\main\assets\stargazer_droid.jpg"/></source><source path="D:\BeamLargeFiles\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\BeamLargeFiles\Application\src\debug\assets"/></dataSet></merger>

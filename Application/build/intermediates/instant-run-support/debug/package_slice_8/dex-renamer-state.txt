@@ -1,0 +1,4 @@
+#Fri Feb 02 10:17:40 IST 2018
+base.0=D\:\\BeamLargeFiles\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

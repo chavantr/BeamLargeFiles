@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 02 10:17:15 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\BeamLargeFiles\\Application\\build\\intermediates\\assets\\debug
+0.path=stargazer_droid.jpg
+0.set=ASSET
+count=1
